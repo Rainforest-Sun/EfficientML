@@ -15,6 +15,13 @@ from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized
 
 
+def move_motor(x_center, y_center):
+    # Move the motor to the center of the detected object
+    # x_center, y_center: center of the detected object
+    print(f'Move the motor to ({x_center}, {y_center})')
+    raise NotImplementedError
+
+
 def detect(save_img=False):
     source, weights, view_img, save_txt, imgsz = opt.source, opt.weights, opt.view_img, opt.save_txt, opt.img_size
     save_img = not opt.nosave and not source.endswith('.txt')  # save inference images
@@ -24,6 +31,8 @@ def detect(save_img=False):
     # Directories
     save_dir = Path(increment_path(Path(opt.project) / opt.name, exist_ok=opt.exist_ok))  # increment run
     (save_dir / 'labels' if save_txt else save_dir).mkdir(parents=True, exist_ok=True)  # make dir
+    
+    category = opt.category
 
     # Initialize
     set_logging()
@@ -114,6 +123,24 @@ def detect(save_img=False):
 
             # Print time (inference + NMS)
             print(f'{s}Done. ({t2 - t1:.3f}s)')
+            
+            # Motor control
+            # Check if the detected category is the expected one
+            if len(det) > 0:
+                # Get the largest confidence detection
+                max_conf = 0
+                for *xyxy, conf, cls in reversed(det):
+                    if int(cls) == category:
+                        print(f'Category {category} detected!')
+                        if conf > max_conf:
+                            max_conf = conf
+                            x1, y1, x2, y2 = xyxy
+                            x_center = (x1 + x2) / 2
+                            y_center = (y1 + y2) / 2
+                # Move the motor
+                move_motor(x_center, y_center)
+            else:
+                print(f'Category {category} not detected!')
 
             # Stream results
             if view_img:
@@ -165,6 +192,7 @@ if __name__ == '__main__':
     parser.add_argument('--project', default='runs/detect', help='save results to project/name')
     parser.add_argument('--name', default='exp', help='save results to project/name')
     parser.add_argument('--exist-ok', action='store_true', help='existing project/name ok, do not increment')
+    parser.add_argument('--category', type=int, default=0, help='expected category index')
     opt = parser.parse_args()
     print(opt)
     check_requirements(exclude=('pycocotools', 'thop'))
