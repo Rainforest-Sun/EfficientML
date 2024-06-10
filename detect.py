@@ -13,13 +13,26 @@ from utils.general import check_img_size, check_requirements, check_imshow, non_
     scale_coords, xyxy2xywh, strip_optimizer, set_logging, increment_path
 from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized
+from utils.servo import set_servo_angle, get_servo_angle
 
 
 def move_motor(x_center, y_center):
     # Move the motor to the center of the detected object
     # x_center, y_center: center of the detected object
     print(f'Move the motor to ({x_center}, {y_center})')
-    raise NotImplementedError
+    # Set the angle of the servo motor
+    if x_center < 0:
+        angle = get_servo_angle()
+        angle -= 5
+        if angle < 0:
+            angle = 0
+    else:
+        angle = 90 + (x_center - 320) * 90 / 320
+        if angle < 0:
+            angle = 0
+        elif angle > 180:
+            angle = 180
+    set_servo_angle(angle)
 
 
 def detect(save_img=False):
