@@ -21,17 +21,29 @@ def move_motor(x_center, y_center):
     # x_center, y_center: center of the detected object
     print(f'Move the motor to ({x_center}, {y_center})')
     # Set the angle of the servo motor
-    if x_center < 0:
-        angle = get_servo_angle()
-        angle -= 5
-        if angle < 0:
-            angle = 0
-    else:
-        angle = 90 + (x_center - 320) * 90 / 320
-        if angle < 0:
-            angle = 0
-        elif angle > 180:
-            angle = 180
+    # angle = get_servo_angle()
+    # if x_center > 440:
+    #     angle -= 5
+    # elif x_center < 200:
+    #     angle += 5
+    # # angle = 90 - (x_center - 320) * 90 / 320
+    # if angle < 0:
+    #     angle = 0
+    # elif angle > 180:
+    #     angle = 180
+
+    angle = get_servo_angle()
+    # angle -= (x_center - 320) / 320. * 29.
+    angle -= (x_center - 320) / 320. * 5
+    if angle < 0:
+        angle = 0
+    elif angle > 180:
+        angle = 180
+
+    # if angle < 0:
+    #     angle = 0
+    # elif angle > 180:
+    #     angle = 180
     set_servo_angle(angle)
 
 
@@ -51,6 +63,8 @@ def detect(save_img=False):
     set_logging()
     device = select_device(opt.device)
     half = device.type != 'cpu'  # half precision only supported on CUDA
+
+    st = time.time()
 
     # Load model
     model = attempt_load(weights, map_location=device)  # load FP32 model
@@ -140,6 +154,9 @@ def detect(save_img=False):
             # Motor control
             # Check if the detected category is the expected one
             if len(det) > 0:
+                current_time = time.time()
+                print(">>", current_time - st, "s")
+                st = current_time
                 # Get the largest confidence detection
                 max_conf = 0
                 for *xyxy, conf, cls in reversed(det):
@@ -150,8 +167,8 @@ def detect(save_img=False):
                             x1, y1, x2, y2 = xyxy
                             x_center = (x1 + x2) / 2
                             y_center = (y1 + y2) / 2
-                # Move the motor
-                move_motor(x_center, y_center)
+                        # Move the motor
+                        move_motor(x_center, y_center)
             else:
                 print(f'Category {category} not detected!')
 

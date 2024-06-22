@@ -1,0 +1,1214 @@
+Namespace(agnostic_nms=False, augment=False, category=0, classes=None, conf_thres=0.45, device='', exist_ok=False, img_size=640, iou_thres=0.5, name='exp', nosave=False, project='runs/detect', save_conf=False, save_txt=False, source='0', update=False, view_img=False, weights=['weights/v5lite-e.pt'])
+Fusing layers... 
+1/1: 0...  success (640x480 at 30.00 FPS).
+
+0: 480x640 Done. (0.999s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.073s)
+Category 0 not detected!
+0: 480x640 Done. (0.073s)
+Category 0 not detected!
+0: 480x640 Done. (0.072s)
+Category 0 not detected!
+0: 480x640 Done. (0.071s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.313s)
+>> 34.49865770339966 s
+Category 0 detected!
+Move the motor to (209.5, 207.5)
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.081s)
+>> 0.35123252868652344 s
+Category 0 detected!
+Move the motor to (200.0, 202.5)
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.073s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.081s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.072s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.081s)
+Category 0 not detected!
+0: 480x640 Done. (0.084s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.073s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.072s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.086s)
+>> 4.5665833950042725 s
+Category 0 detected!
+Move the motor to (433.0, 231.0)
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.079s)
+>> 0.24638891220092773 s
+Category 0 detected!
+Move the motor to (235.5, 196.5)
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.084s)
+Category 0 not detected!
+0: 480x640 Done. (0.082s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 1 person, 1 laptop, Done. (0.083s)
+>> 0.6071169376373291 s
+Category 0 detected!
+Move the motor to (275.0, 191.5)
+0: 480x640 1 person, 1 laptop, Done. (0.082s)
+>> 0.14982390403747559 s
+Category 0 detected!
+Move the motor to (371.5, 186.0)
+0: 480x640 1 person, Done. (0.081s)
+>> 0.1265401840209961 s
+Category 0 detected!
+Move the motor to (364.0, 198.5)
+0: 480x640 1 person, 1 laptop, Done. (0.082s)
+>> 0.14330601692199707 s
+Category 0 detected!
+Move the motor to (365.5, 200.0)
+0: 480x640 1 person, Done. (0.080s)
+>> 0.1311788558959961 s
+Category 0 detected!
+Move the motor to (372.0, 193.5)
+0: 480x640 1 person, 1 laptop, Done. (0.079s)
+>> 0.1328141689300537 s
+Category 0 detected!
+Move the motor to (366.0, 195.0)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.12647080421447754 s
+Category 0 detected!
+Move the motor to (369.5, 196.5)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.12909245491027832 s
+Category 0 detected!
+Move the motor to (359.5, 200.0)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.12794852256774902 s
+Category 0 detected!
+Move the motor to (272.0, 198.5)
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.076s)
+>> 0.24761557579040527 s
+Category 0 detected!
+Move the motor to (246.5, 194.5)
+0: 480x640 Done. (0.085s)
+Category 0 not detected!
+0: 480x640 1 laptop, Done. (0.085s)
+>> 0.2622959613800049 s
+0: 480x640 1 laptop, Done. (0.080s)
+>> 0.1151115894317627 s
+0: 480x640 1 laptop, Done. (0.081s)
+>> 0.10508060455322266 s
+0: 480x640 1 laptop, Done. (0.080s)
+>> 0.10628724098205566 s
+0: 480x640 1 laptop, Done. (0.080s)
+>> 0.11413979530334473 s
+0: 480x640 1 person, 1 laptop, Done. (0.081s)
+>> 0.11829638481140137 s
+Category 0 detected!
+Move the motor to (343.0, 216.5)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.13280320167541504 s
+Category 0 detected!
+Move the motor to (398.5, 221.5)
+0: 480x640 1 person, Done. (0.079s)
+>> 0.12929773330688477 s
+Category 0 detected!
+Move the motor to (438.5, 207.0)
+0: 480x640 1 person, Done. (0.080s)
+>> 0.1312086582183838 s
+Category 0 detected!
+Move the motor to (455.0, 225.0)
+0: 480x640 1 person, Done. (0.080s)
+>> 0.13023805618286133 s
+Category 0 detected!
+Move the motor to (461.0, 237.5)
+0: 480x640 Done. (0.080s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.080s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.080s)
+Category 0 not detected!
+0: 480x640 Done. (0.085s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.071s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.076s)
+>> 1.7504208087921143 s
+Category 0 detected!
+Move the motor to (467.5, 230.5)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.12577295303344727 s
+Category 0 detected!
+Move the motor to (467.5, 230.5)
+0: 480x640 1 person, Done. (0.084s)
+>> 0.12982773780822754 s
+Category 0 detected!
+Move the motor to (469.5, 229.0)
+0: 480x640 1 person, Done. (0.084s)
+>> 0.14159822463989258 s
+Category 0 detected!
+Move the motor to (465.0, 230.0)
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.081s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.081s)
+>> 0.3515279293060303 s
+Category 0 detected!
+Move the motor to (425.5, 229.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.13254022598266602 s
+Category 0 detected!
+Move the motor to (427.5, 233.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.13338637351989746 s
+Category 0 detected!
+Move the motor to (407.5, 228.5)
+0: 480x640 1 person, 1 laptop, Done. (0.082s)
+>> 0.13373923301696777 s
+Category 0 detected!
+Move the motor to (399.0, 209.5)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.13115882873535156 s
+Category 0 detected!
+Move the motor to (384.0, 209.5)
+0: 480x640 1 person, 1 laptop, Done. (0.079s)
+>> 0.13008952140808105 s
+Category 0 detected!
+Move the motor to (369.0, 198.0)
+0: 480x640 1 laptop, Done. (0.075s)
+>> 0.11416888236999512 s
+0: 480x640 1 person, 1 laptop, 1 cell phone, Done. (0.075s)
+>> 0.11432123184204102 s
+Category 0 detected!
+Move the motor to (340.0, 194.5)
+0: 480x640 1 person, 1 laptop, 1 cell phone, Done. (0.076s)
+>> 0.1389305591583252 s
+Category 0 detected!
+Move the motor to (340.0, 194.5)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.12128949165344238 s
+Category 0 detected!
+Move the motor to (333.5, 184.0)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.1315000057220459 s
+Category 0 detected!
+Move the motor to (332.0, 196.0)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.1270008087158203 s
+Category 0 detected!
+Move the motor to (335.5, 200.0)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.12694191932678223 s
+Category 0 detected!
+Move the motor to (359.5, 195.5)
+0: 480x640 1 person, 1 cell phone, Done. (0.079s)
+>> 0.13340258598327637 s
+Category 0 detected!
+Move the motor to (404.0, 198.0)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.12637639045715332 s
+Category 0 detected!
+Move the motor to (434.5, 177.0)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.12368941307067871 s
+Category 0 detected!
+Move the motor to (441.0, 199.0)
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.12296366691589355 s
+0: 480x640 1 person, Done. (0.075s)
+>> 0.11172842979431152 s
+Category 0 detected!
+Move the motor to (439.0, 185.0)
+0: 480x640 1 toilet, Done. (0.077s)
+>> 0.11573243141174316 s
+0: 480x640 1 toilet, Done. (0.078s)
+>> 0.11243224143981934 s
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 1 person, 1 laptop, Done. (0.081s)
+>> 0.3153200149536133 s
+Category 0 detected!
+Move the motor to (431.0, 209.0)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.13055968284606934 s
+Category 0 detected!
+Move the motor to (429.0, 208.0)
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.3314998149871826 s
+Category 0 detected!
+Move the motor to (408.0, 210.5)
+0: 480x640 1 person, 1 laptop, 1 cell phone, Done. (0.077s)
+>> 0.1296219825744629 s
+Category 0 detected!
+Move the motor to (406.5, 209.5)
+0: 480x640 1 person, 1 laptop, Done. (0.081s)
+>> 0.1311511993408203 s
+Category 0 detected!
+Move the motor to (410.5, 208.5)
+0: 480x640 1 person, 1 laptop, Done. (0.079s)
+>> 0.1323564052581787 s
+Category 0 detected!
+Move the motor to (409.0, 211.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.12457919120788574 s
+Category 0 detected!
+Move the motor to (411.0, 207.0)
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.12507081031799316 s
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 1 laptop, Done. (0.079s)
+>> 0.5194475650787354 s
+0: 480x640 1 laptop, Done. (0.075s)
+>> 0.10710430145263672 s
+0: 480x640 Done. (0.080s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.077s)
+Category 0 not detected!
+0: 480x640 1 person, Done. (0.076s)
+>> 0.5099701881408691 s
+Category 0 detected!
+Move the motor to (408.0, 206.0)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.12622404098510742 s
+Category 0 detected!
+Move the motor to (412.0, 208.5)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.12269163131713867 s
+Category 0 detected!
+Move the motor to (412.5, 206.0)
+0: 480x640 1 person, Done. (0.075s)
+>> 0.12284970283508301 s
+Category 0 detected!
+Move the motor to (424.5, 201.5)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.12345504760742188 s
+Category 0 detected!
+Move the motor to (431.5, 201.5)
+0: 480x640 1 person, Done. (0.081s)
+>> 0.13095521926879883 s
+Category 0 detected!
+Move the motor to (429.0, 199.5)
+0: 480x640 1 person, 1 toilet, Done. (0.078s)
+>> 0.13257312774658203 s
+Category 0 detected!
+Move the motor to (435.0, 181.0)
+0: 480x640 1 person, Done. (0.079s)
+>> 0.13112545013427734 s
+Category 0 detected!
+Move the motor to (438.0, 201.5)
+0: 480x640 1 person, Done. (0.080s)
+>> 0.12956738471984863 s
+Category 0 detected!
+Move the motor to (438.5, 209.5)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.1254127025604248 s
+Category 0 detected!
+Move the motor to (455.0, 207.0)
+0: 480x640 1 person, Done. (0.078s)
+>> 0.12539243698120117 s
+Category 0 detected!
+Move the motor to (455.0, 207.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.12621641159057617 s
+Category 0 detected!
+Move the motor to (464.5, 220.0)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.11562585830688477 s
+Category 0 detected!
+Move the motor to (472.0, 204.0)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.12372112274169922 s
+Category 0 detected!
+Move the motor to (472.0, 201.5)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.12656593322753906 s
+Category 0 detected!
+Move the motor to (466.0, 214.0)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.13077878952026367 s
+Category 0 detected!
+Move the motor to (468.5, 206.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.13328218460083008 s
+Category 0 detected!
+Move the motor to (466.0, 203.5)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.1277463436126709 s
+Category 0 detected!
+Move the motor to (454.0, 201.0)
+0: 480x640 1 person, 1 toilet, Done. (0.082s)
+>> 0.13934731483459473 s
+Category 0 detected!
+Move the motor to (432.0, 193.0)
+0: 480x640 1 person, 1 laptop, Done. (0.079s)
+>> 0.13231372833251953 s
+Category 0 detected!
+Move the motor to (404.5, 194.0)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.13202214241027832 s
+Category 0 detected!
+Move the motor to (391.0, 193.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.14141225814819336 s
+Category 0 detected!
+Move the motor to (398.5, 183.5)
+0: 480x640 1 person, 1 toilet, 1 laptop, Done. (0.079s)
+>> 0.136185884475708 s
+Category 0 detected!
+Move the motor to (420.5, 183.5)
+0: 480x640 1 person, 1 cell phone, Done. (0.080s)
+>> 0.1412339210510254 s
+Category 0 detected!
+Move the motor to (458.0, 200.0)
+0: 480x640 1 person, Done. (0.092s)
+>> 0.14878320693969727 s
+Category 0 detected!
+Move the motor to (493.5, 205.5)
+0: 480x640 1 person, 1 cup, 1 laptop, Done. (0.079s)
+>> 0.13527536392211914 s
+Category 0 detected!
+Move the motor to (499.0, 209.5)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.13190793991088867 s
+Category 0 detected!
+Move the motor to (506.5, 203.0)
+0: 480x640 2 laptops, Done. (0.078s)
+>> 0.1333143711090088 s
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.11118149757385254 s
+0: 480x640 1 person, Done. (0.082s)
+>> 0.1168212890625 s
+Category 0 detected!
+Move the motor to (495.0, 210.0)
+0: 480x640 1 cell phone, Done. (0.080s)
+>> 0.13030719757080078 s
+0: 480x640 1 cell phone, Done. (0.081s)
+>> 0.11593794822692871 s
+0: 480x640 1 cup, 1 cell phone, Done. (0.086s)
+>> 0.11750125885009766 s
+0: 480x640 1 person, Done. (0.083s)
+>> 0.11688041687011719 s
+Category 0 detected!
+Move the motor to (530.0, 150.5)
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.087s)
+Category 0 not detected!
+0: 480x640 Done. (0.082s)
+Category 0 not detected!
+0: 480x640 Done. (0.080s)
+Category 0 not detected!
+0: 480x640 Done. (0.082s)
+Category 0 not detected!
+0: 480x640 Done. (0.081s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.085s)
+Category 0 not detected!
+0: 480x640 Done. (0.081s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.088s)
+Category 0 not detected!
+0: 480x640 Done. (0.078s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.082s)
+Category 0 not detected!
+0: 480x640 Done. (0.084s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.071s)
+Category 0 not detected!
+0: 480x640 Done. (0.071s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.076s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.074s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.075s)
+Category 0 not detected!
+0: 480x640 Done. (0.079s)
+Category 0 not detected!
+0: 480x640 1 cup, Done. (0.080s)
+>> 4.161375045776367 s
+0: 480x640 1 cup, Done. (0.081s)
+>> 0.11528730392456055 s
+0: 480x640 1 person, Done. (0.081s)
+>> 0.1101384162902832 s
+Category 0 detected!
+Move the motor to (57.0, 331.5)
+0: 480x640 1 person, Done. (0.082s)
+>> 0.13437151908874512 s
+Category 0 detected!
+Move the motor to (56.5, 329.5)
+0: 480x640 1 person, 1 cup, Done. (0.083s)
+>> 0.1376183032989502 s
+Category 0 detected!
+Move the motor to (50.0, 334.0)
+0: 480x640 1 person, Done. (0.084s)
+>> 0.13636398315429688 s
+Category 0 detected!
+Move the motor to (68.5, 338.5)
+0: 480x640 1 person, Done. (0.082s)
+>> 0.13691115379333496 s
+Category 0 detected!
+Move the motor to (102.0, 341.0)
+0: 480x640 1 person, 1 laptop, Done. (0.080s)
+>> 0.1445627212524414 s
+Category 0 detected!
+Move the motor to (177.0, 348.0)
+0: 480x640 1 laptop, Done. (0.077s)
+>> 0.1353609561920166 s
+0: 480x640 1 laptop, Done. (0.077s)
+>> 0.1202547550201416 s
+0: 480x640 1 person, 2 laptops, Done. (0.076s)
+>> 0.10501480102539062 s
+Category 0 detected!
+Move the motor to (328.5, 337.5)
+0: 480x640 1 person, 2 laptops, Done. (0.076s)
+>> 0.140944242477417 s
+Category 0 detected!
+Move the motor to (298.0, 272.5)
+0: 480x640 2 laptops, Done. (0.075s)
+>> 0.13504815101623535 s
+0: 480x640 2 laptops, Done. (0.075s)
+>> 0.11853146553039551 s
+0: 480x640 1 person, 2 laptops, Done. (0.075s)
+>> 0.12001943588256836 s
+Category 0 detected!
+Move the motor to (178.0, 236.0)
+0: 480x640 1 person, 2 laptops, Done. (0.076s)
+>> 0.13559174537658691 s
+Category 0 detected!
+Move the motor to (187.0, 271.0)
+0: 480x640 1 person, 3 laptops, Done. (0.076s)
+>> 0.13781452178955078 s
+Category 0 detected!
+Move the motor to (195.5, 290.5)
+0: 480x640 1 person, 2 laptops, Done. (0.077s)
+>> 0.1421067714691162 s
+Category 0 detected!
+Move the motor to (197.0, 278.0)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.13500285148620605 s
+Category 0 detected!
+Move the motor to (221.0, 288.0)
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.1351017951965332 s
+Category 0 detected!
+Move the motor to (248.0, 276.0)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.13525629043579102 s
+Category 0 detected!
+Move the motor to (268.0, 280.5)
+0: 480x640 1 person, 1 laptop, Done. (0.082s)
+>> 0.14063215255737305 s
+Category 0 detected!
+Move the motor to (269.5, 294.0)
+0: 480x640 1 person, 1 car, 1 laptop, Done. (0.076s)
+>> 0.12227511405944824 s
+Category 0 detected!
+Move the motor to (245.0, 270.0)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.13465261459350586 s
+Category 0 detected!
+Move the motor to (235.5, 276.0)
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.13000273704528809 s
+0: 480x640 1 laptop, Done. (0.077s)
+>> 0.11519432067871094 s
+0: 480x640 1 laptop, Done. (0.080s)
+>> 0.10753893852233887 s
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.11408686637878418 s
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.11352348327636719 s
+0: 480x640 1 tie, 1 laptop, Done. (0.076s)
+>> 0.11440563201904297 s
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.11781454086303711 s
+Category 0 detected!
+Move the motor to (269.5, 326.5)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.12814021110534668 s
+Category 0 detected!
+Move the motor to (270.0, 331.0)
+0: 480x640 1 person, 1 tie, 1 toilet, Done. (0.076s)
+>> 0.1324024200439453 s
+Category 0 detected!
+Move the motor to (238.0, 331.0)
+0: 480x640 1 person, 1 tie, 1 toilet, Done. (0.075s)
+>> 0.1318519115447998 s
+Category 0 detected!
+Move the motor to (238.0, 331.0)
+0: 480x640 1 toilet, Done. (0.076s)
+>> 0.11509585380554199 s
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.075s)
+>> 0.11631035804748535 s
+Category 0 detected!
+Move the motor to (275.0, 333.0)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.13119983673095703 s
+Category 0 detected!
+Move the motor to (241.5, 333.0)
+0: 480x640 1 person, 1 tv, Done. (0.075s)
+>> 0.13088250160217285 s
+Category 0 detected!
+Move the motor to (263.5, 333.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.079s)
+>> 0.14130496978759766 s
+Category 0 detected!
+Move the motor to (237.5, 332.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.076s)
+>> 0.13437557220458984 s
+Category 0 detected!
+Move the motor to (236.0, 329.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.077s)
+>> 0.1355593204498291 s
+Category 0 detected!
+Move the motor to (235.5, 303.0)
+0: 480x640 1 person, 1 tie, 1 tv, 1 sink, Done. (0.077s)
+>> 0.14088225364685059 s
+Category 0 detected!
+Move the motor to (238.5, 308.5)
+0: 480x640 1 person, 1 chair, 1 tv, 1 sink, Done. (0.076s)
+>> 0.14231204986572266 s
+Category 0 detected!
+Move the motor to (273.0, 318.5)
+0: 480x640 1 person, 1 tv, Done. (0.075s)
+>> 0.13197994232177734 s
+Category 0 detected!
+Move the motor to (300.0, 334.0)
+0: 480x640 1 person, 1 tie, 1 tv, Done. (0.076s)
+>> 0.13331842422485352 s
+Category 0 detected!
+Move the motor to (273.5, 331.0)
+0: 480x640 1 person, 1 tie, 1 tv, Done. (0.076s)
+>> 0.13425803184509277 s
+Category 0 detected!
+Move the motor to (298.0, 340.0)
+0: 480x640 1 person, 1 chair, Done. (0.075s)
+>> 0.11725068092346191 s
+Category 0 detected!
+Move the motor to (273.5, 342.5)
+0: 480x640 2 persons, Done. (0.076s)
+>> 0.129852294921875 s
+Category 0 detected!
+Move the motor to (129.5, 327.0)
+Category 0 detected!
+Move the motor to (299.0, 347.0)
+0: 480x640 2 persons, Done. (0.076s)
+>> 0.14649677276611328 s
+Category 0 detected!
+Move the motor to (109.0, 344.5)
+Category 0 detected!
+Move the motor to (297.5, 346.5)
+0: 480x640 1 person, 1 sink, Done. (0.076s)
+>> 0.14573168754577637 s
+Category 0 detected!
+Move the motor to (301.5, 348.5)
+0: 480x640 1 person, 1 laptop, 1 sink, Done. (0.075s)
+>> 0.13167953491210938 s
+Category 0 detected!
+Move the motor to (341.5, 348.0)
+0: 480x640 2 persons, 1 tv, 1 laptop, Done. (0.076s)
+>> 0.1386735439300537 s
+Category 0 detected!
+Move the motor to (183.0, 342.0)
+Category 0 detected!
+Move the motor to (396.0, 347.5)
+0: 480x640 1 person, 1 tv, Done. (0.080s)
+>> 0.15869379043579102 s
+Category 0 detected!
+Move the motor to (374.5, 352.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.076s)
+>> 0.1367051601409912 s
+Category 0 detected!
+Move the motor to (373.0, 353.0)
+0: 480x640 1 tv, Done. (0.075s)
+>> 0.12707304954528809 s
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.11629152297973633 s
+Category 0 detected!
+Move the motor to (368.0, 356.0)
+0: 480x640 2 persons, 1 chair, 1 laptop, Done. (0.077s)
+>> 0.14093470573425293 s
+Category 0 detected!
+Move the motor to (140.5, 322.0)
+Category 0 detected!
+Move the motor to (369.0, 352.0)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.1464693546295166 s
+Category 0 detected!
+Move the motor to (397.0, 353.5)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.12046432495117188 s
+Category 0 detected!
+Move the motor to (399.0, 346.0)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.13516807556152344 s
+Category 0 detected!
+Move the motor to (409.0, 327.0)
+0: 480x640 1 person, 1 tv, Done. (0.077s)
+>> 0.13537263870239258 s
+Category 0 detected!
+Move the motor to (406.0, 330.5)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.13452744483947754 s
+Category 0 detected!
+Move the motor to (432.0, 335.0)
+0: 480x640 1 person, 1 tv, Done. (0.077s)
+>> 0.13423895835876465 s
+Category 0 detected!
+Move the motor to (406.5, 343.5)
+0: 480x640 1 person, 1 tv, Done. (0.077s)
+>> 0.1359410285949707 s
+Category 0 detected!
+Move the motor to (396.0, 338.0)
+0: 480x640 1 person, 1 tv, Done. (0.077s)
+>> 0.1361217498779297 s
+Category 0 detected!
+Move the motor to (370.5, 344.0)
+0: 480x640 1 person, 1 tv, Done. (0.077s)
+>> 0.13696503639221191 s
+Category 0 detected!
+Move the motor to (344.0, 344.5)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.13267159461975098 s
+Category 0 detected!
+Move the motor to (359.0, 344.0)
+0: 480x640 1 tv, Done. (0.076s)
+>> 0.1320343017578125 s
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.079s)
+>> 0.12251067161560059 s
+Category 0 detected!
+Move the motor to (338.0, 342.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.075s)
+>> 0.13399195671081543 s
+Category 0 detected!
+Move the motor to (398.5, 337.5)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.11933493614196777 s
+Category 0 detected!
+Move the motor to (395.5, 335.0)
+0: 480x640 1 person, 1 tv, Done. (0.075s)
+>> 0.1301136016845703 s
+Category 0 detected!
+Move the motor to (393.5, 334.0)
+0: 480x640 1 person, 1 tv, Done. (0.075s)
+>> 0.13480877876281738 s
+Category 0 detected!
+Move the motor to (361.5, 332.0)
+0: 480x640 1 person, Done. (0.075s)
+>> 0.12821006774902344 s
+Category 0 detected!
+Move the motor to (337.0, 331.0)
+0: 480x640 1 person, Done. (0.076s)
+>> 0.13206195831298828 s
+Category 0 detected!
+Move the motor to (280.0, 331.5)
+0: 480x640 1 person, Done. (0.077s)
+>> 0.1336050033569336 s
+Category 0 detected!
+Move the motor to (280.0, 331.5)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.12778377532958984 s
+Category 0 detected!
+Move the motor to (335.5, 335.5)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.13861989974975586 s
+Category 0 detected!
+Move the motor to (342.0, 333.0)
+0: 480x640 1 person, 1 laptop, Done. (0.077s)
+>> 0.13340044021606445 s
+Category 0 detected!
+Move the motor to (369.0, 336.0)
+0: 480x640 1 laptop, Done. (0.075s)
+>> 0.1248927116394043 s
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.10974955558776855 s
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.11191320419311523 s
+Category 0 detected!
+Move the motor to (309.5, 325.0)
+0: 480x640 1 laptop, Done. (0.079s)
+>> 0.11997199058532715 s
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.11521697044372559 s
+Category 0 detected!
+Move the motor to (304.5, 332.5)
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.12882399559020996 s
+Category 0 detected!
+Move the motor to (300.0, 335.5)
+0: 480x640 1 laptop, Done. (0.077s)
+>> 0.12704133987426758 s
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.10934686660766602 s
+0: 480x640 1 laptop, Done. (0.076s)
+>> 0.10168933868408203 s
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.1113271713256836 s
+Category 0 detected!
+Move the motor to (339.5, 341.0)
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.1257321834564209 s
+Category 0 detected!
+Move the motor to (304.0, 326.5)
+0: 480x640 1 laptop, Done. (0.080s)
+>> 0.13306260108947754 s
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.1154329776763916 s
+Category 0 detected!
+Move the motor to (252.5, 295.0)
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.13358354568481445 s
+Category 0 detected!
+Move the motor to (252.0, 324.0)
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.13013362884521484 s
+Category 0 detected!
+Move the motor to (296.5, 325.5)
+0: 480x640 1 person, 1 laptop, Done. (0.075s)
+>> 0.11788153648376465 s
+Category 0 detected!
+Move the motor to (296.5, 325.5)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.1197965145111084 s
+Category 0 detected!
+Move the motor to (306.0, 340.0)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.13153910636901855 s
+Category 0 detected!
+Move the motor to (335.5, 339.0)
+0: 480x640 1 person, 1 laptop, 1 remote, Done. (0.076s)
+>> 0.1329493522644043 s
+Category 0 detected!
+Move the motor to (306.5, 343.5)
+0: 480x640 1 person, 2 laptops, Done. (0.076s)
+>> 0.1287379264831543 s
+Category 0 detected!
+Move the motor to (273.5, 341.5)
+0: 480x640 1 person, 1 laptop, Done. (0.076s)
+>> 0.1300184726715088 s
+Category 0 detected!
+Move the motor to (242.0, 336.0)
+0: 480x640 1 person, Done. (0.081s)
+>> 0.1339249610900879 s
+Category 0 detected!
+Move the motor to (214.5, 344.5)
+0: 480x640 1 person, Done. (0.079s)
+>> 0.12995100021362305 s
+Category 0 detected!
+Move the motor to (212.5, 345.0)
+0: 480x640 1 person, Done. (0.078s)
+>> 0.12789082527160645 s
+Category 0 detected!
+Move the motor to (183.5, 345.0)
+0: 480x640 1 person, Done. (0.079s)
+>> 0.12902545928955078 s
+Category 0 detected!
+Move the motor to (213.5, 345.0)
+0: 480x640 1 person, 1 toilet, Done. (0.079s)
+>> 0.13472819328308105 s
+Category 0 detected!
+Move the motor to (231.0, 341.0)
+0: 480x640 1 person, 1 tie, 1 tv, Done. (0.075s)
+>> 0.131361722946167 s
+Category 0 detected!
+Move the motor to (248.5, 334.5)
+0: 480x640 1 person, 1 tv, Done. (0.077s)
+>> 0.11798787117004395 s
+Category 0 detected!
+Move the motor to (283.5, 333.5)
+0: 480x640 1 person, 1 tv, Done. (0.076s)
+>> 0.1294994354248047 s
+Category 0 detected!
+Move the motor to (308.0, 334.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.084s)
+>> 0.1497962474822998 s
+Category 0 detected!
+Move the motor to (322.5, 337.0)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.083s)
+>> 0.1531538963317871 s
+Category 0 detected!
+Move the motor to (326.0, 336.0)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.081s)
+>> 0.14156126976013184 s
+Category 0 detected!
+Move the motor to (325.0, 339.0)
+0: 480x640 1 person, 1 chair, 1 tv, 1 laptop, Done. (0.082s)
+>> 0.14306426048278809 s
+Category 0 detected!
+Move the motor to (329.5, 337.5)
+0: 480x640 1 person, 1 tie, 1 chair, 1 tv, Done. (0.082s)
+>> 0.142287015914917 s
+Category 0 detected!
+Move the motor to (331.5, 336.5)
+0: 480x640 1 person, 1 tie, 1 chair, 1 tv, Done. (0.082s)
+>> 0.14120101928710938 s
+Category 0 detected!
+Move the motor to (334.5, 337.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.081s)
+>> 0.13757896423339844 s
+Category 0 detected!
+Move the motor to (334.0, 338.0)
+0: 480x640 1 person, 1 tie, 1 chair, 1 tv, Done. (0.079s)
+>> 0.13310909271240234 s
+Category 0 detected!
+Move the motor to (331.5, 338.5)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.077s)
+>> 0.12990713119506836 s
+Category 0 detected!
+Move the motor to (330.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 sink, Done. (0.082s)
+>> 0.14613080024719238 s
+Category 0 detected!
+Move the motor to (328.0, 338.0)
+0: 480x640 1 person, 1 tv, Done. (0.084s)
+>> 0.12970280647277832 s
+Category 0 detected!
+Move the motor to (316.5, 335.0)
+0: 480x640 1 person, 1 tv, Done. (0.080s)
+>> 0.1348724365234375 s
+Category 0 detected!
+Move the motor to (306.0, 337.5)
+0: 480x640 1 person, 1 tv, Done. (0.080s)
+>> 0.13347816467285156 s
+Category 0 detected!
+Move the motor to (297.5, 338.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.076s)
+>> 0.13034391403198242 s
+Category 0 detected!
+Move the motor to (300.0, 337.5)
+0: 480x640 1 person, 1 tie, 1 tv, 1 laptop, Done. (0.077s)
+>> 0.13228392601013184 s
+Category 0 detected!
+Move the motor to (299.0, 337.0)
+0: 480x640 1 person, 1 tie, 1 tv, 1 laptop, Done. (0.080s)
+>> 0.14234447479248047 s
+Category 0 detected!
+Move the motor to (298.0, 337.0)
+0: 480x640 1 person, 1 tv, Done. (0.084s)
+>> 0.1407639980316162 s
+Category 0 detected!
+Move the motor to (297.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.081s)
+>> 0.14059901237487793 s
+Category 0 detected!
+Move the motor to (297.5, 338.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.081s)
+>> 0.13921356201171875 s
+Category 0 detected!
+Move the motor to (297.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.082s)
+>> 0.13897275924682617 s
+Category 0 detected!
+Move the motor to (298.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.081s)
+>> 0.13471150398254395 s
+Category 0 detected!
+Move the motor to (298.0, 337.0)
+0: 480x640 1 person, 1 tie, 1 tv, 1 laptop, Done. (0.081s)
+>> 0.13558721542358398 s
+Category 0 detected!
+Move the motor to (297.5, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.080s)
+>> 0.12645673751831055 s
+Category 0 detected!
+Move the motor to (299.0, 338.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.081s)
+>> 0.1363677978515625 s
+Category 0 detected!
+Move the motor to (298.0, 338.0)
+0: 480x640 1 person, 1 tv, Done. (0.081s)
+>> 0.1335444450378418 s
+Category 0 detected!
+Move the motor to (296.0, 336.5)
+0: 480x640 1 person, 1 tv, Done. (0.079s)
+>> 0.12950778007507324 s
+Category 0 detected!
+Move the motor to (296.0, 337.5)
+0: 480x640 1 person, 1 toilet, 1 tv, 1 laptop, Done. (0.078s)
+>> 0.13106822967529297 s
+Category 0 detected!
+Move the motor to (298.5, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.075s)
+>> 0.12719488143920898 s
+Category 0 detected!
+Move the motor to (297.5, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.079s)
+>> 0.13144946098327637 s
+Category 0 detected!
+Move the motor to (296.0, 339.0)
+0: 480x640 1 person, 1 toilet, 1 tv, 1 laptop, Done. (0.078s)
+>> 0.13210701942443848 s
+Category 0 detected!
+Move the motor to (300.0, 338.5)
+0: 480x640 1 person, 1 toilet, 1 tv, 1 laptop, Done. (0.084s)
+>> 0.13784003257751465 s
+Category 0 detected!
+Move the motor to (300.0, 338.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.087s)
+>> 0.13499712944030762 s
+Category 0 detected!
+Move the motor to (298.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.090s)
+>> 0.15106964111328125 s
+Category 0 detected!
+Move the motor to (299.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.094s)
+>> 0.15107321739196777 s
+Category 0 detected!
+Move the motor to (299.0, 337.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.095s)
+>> 0.14721941947937012 s
+Category 0 detected!
+Move the motor to (297.5, 337.5)
+0: 480x640 1 person, 1 tv, Done. (0.092s)
+>> 0.14967870712280273 s
+Category 0 detected!
+Move the motor to (299.0, 337.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.097s)
+>> 0.15671443939208984 s
+Category 0 detected!
+Move the motor to (296.5, 336.0)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.095s)
+>> 0.1550741195678711 s
+Category 0 detected!
+Move the motor to (297.0, 338.0)
+0: 480x640 1 person, 1 tie, 1 toilet, 1 tv, Done. (0.080s)
+>> 0.15103626251220703 s
+Category 0 detected!
+Move the motor to (297.0, 337.5)
+0: 480x640 1 person, 1 tv, Done. (0.091s)
+>> 0.1523432731628418 s
+Category 0 detected!
+Move the motor to (296.5, 338.0)
+0: 480x640 1 person, 1 tv, Done. (0.090s)
+>> 0.14443707466125488 s
+Category 0 detected!
+Move the motor to (298.0, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, 1 sink, Done. (0.085s)
+>> 0.13919806480407715 s
+Category 0 detected!
+Move the motor to (295.5, 337.5)
+0: 480x640 1 person, 1 tv, Done. (0.083s)
+>> 0.1364734172821045 s
+Category 0 detected!
+Move the motor to (299.0, 338.0)
+0: 480x640 1 person, 1 tie, 1 tv, Done. (0.083s)
+>> 0.13488101959228516 s
+Category 0 detected!
+Move the motor to (297.5, 336.5)
+0: 480x640 1 person, 1 tv, Done. (0.082s)
+>> 0.13425064086914062 s
+Category 0 detected!
+Move the motor to (297.0, 338.0)
+0: 480x640 1 person, 1 tv, Done. (0.083s)
+>> 0.13703203201293945 s
+Category 0 detected!
+Move the motor to (295.5, 336.5)
+0: 480x640 1 person, 1 tv, Done. (0.083s)
+>> 0.12969422340393066 s
+Category 0 detected!
+Move the motor to (295.5, 337.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.084s)
+>> 0.13880610466003418 s
+Category 0 detected!
+Move the motor to (294.0, 339.5)
+0: 480x640 1 person, 1 tv, 1 laptop, Done. (0.075s)
+>> 0.12578582763671875 s
+Category 0 detected!
+Move the motor to (294.5, 342.5)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.076s)
+>> 0.13120293617248535 s
+Category 0 detected!
+Move the motor to (295.5, 346.5)
+0: 480x640 1 person, 1 chair, 1 tv, 1 laptop, Done. (0.075s)
+>> 0.12985801696777344 s
+Category 0 detected!
+Move the motor to (303.0, 354.0)
+0: 480x640 1 person, 1 chair, 1 tv, 1 laptop, Done. (0.075s)
+>> 0.12987565994262695 s
+Category 0 detected!
+Move the motor to (301.5, 358.0)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.075s)
+>> 0.1261584758758545 s
+Category 0 detected!
+Move the motor to (303.5, 357.5)
+0: 480x640 1 person, 1 chair, 1 tv, 1 laptop, Done. (0.076s)
+>> 0.13044977188110352 s
+Category 0 detected!
+Move the motor to (305.5, 356.0)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.078s)
+>> 0.12890386581420898 s
+Category 0 detected!
+Move the motor to (303.0, 354.0)
+0: 480x640 1 person, 1 chair, 1 tv, Done. (0.076s)
+>> 0.12665486335754395 s
+Category 0 detected!
+Move the motor to (302.0, 349.0)
+Exiting... 
+Cleaning up pins
